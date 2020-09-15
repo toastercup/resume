@@ -1,0 +1,25 @@
+{
+  "about-me": {
+    "first-name": "Alex",
+    "last-name": "Tharp",
+    "location": "1429 Mill Rose Trace, Lawrenceville GA 30044, USA",
+    "mobile": "14046950998",
+    "mobile-display": "(404) 695-0998",
+    "email": "alex@toastercup.io",
+    "website": "toastercup.io",
+    "github": "toastercup",
+    "position": "Senior Full-stack Software Engineer"
+  },
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "institution": "Dribbble",
+      "location": "Remote",
+      "date-range": "Jan. 2019 - Present",
+      "active": true,
+      "list-items": [
+        "TBD"
+      ]
+    }
+  ]
+}
