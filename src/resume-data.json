@@ -17,12 +17,12 @@
       "location": "Remote",
       "date-range": "Jan. 2019 - Present",
       "list-items": [
-        "TBD"
+        "TBD <div class='page-break'></div>"
       ]
     },
     {
       "title": "Engineering Lead",
-      "institution": "CareerBuilder",
+      "institution": "CareerBuilder, LLC",
       "location": "Remote",
       "date-range": "Sep. 2015 - Jan. 2019",
       "list-items": [
@@ -52,6 +52,32 @@
         "Built Employer Resource Center platform atop Cortex CMS, allowing <strong>relevant marketing content</strong> to be piped into the employer experience during the discovery & purchase process.",
         "<strong>Took over existing Shopping Cart Platform team</strong>, overseeing resolution of performance, purchase and maintenance issues.",
         "<strong>Created architecture</strong> and plan for migration for <strong>brownfield Shopping Cart from .NET to Rails/React</strong>, working closely with leadership to develop next-generation purchasing platform for CareerBuilder."
+      ]
+    }
+  ],
+  "past-experience": [
+    {
+      "institution": "CareerBuilder, LLC",
+      "location": "Atlanta, Georgia",
+      "positions": [
+        {
+          "title": "Software Engineer II",
+          "date-range": "Jul. 2013 - Sep. 2015"
+        },
+        {
+          "title": "Software Engineer I",
+          "date-range": "Aug. 2011 - Jul. 2013"
+        }
+      ]
+    },
+    {
+      "institution": "Soft Solutions, Inc",
+      "location": "Atlanta, Georgia",
+      "positions": [
+        {
+          "title": "Software Developer",
+          "date-range": "Jan. 2009 - Aug. 2011"
+        }
       ]
     }
   ]
