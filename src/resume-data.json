@@ -16,9 +16,42 @@
       "institution": "Dribbble",
       "location": "Remote",
       "date-range": "Jan. 2019 - Present",
-      "active": true,
       "list-items": [
         "TBD"
+      ]
+    },
+    {
+      "title": "Engineering Lead",
+      "institution": "CareerBuilder",
+      "location": "Remote",
+      "date-range": "Sep. 2015 - Jan. 2019",
+      "list-items": [
+        "Formed and led remote team that created a new, <strong>open source CMS</strong> (<a href='https://github.com/cortex-cms'>github.com/cortex-cms</a>) designed to be <strong>configurable, extensible, multitenant, modular and plugins-based</strong>, while still being backed by modern technologies such as <strong>Rails, React, Sass, GraphQL, Elasticsearch, Redis and PostgreSQL's JSONB</strong> functionality.",
+        "<strong>Architected</strong> and built foundational features, extensively detailing <strong>implementation plans & proposals via Github Issues</strong> and hosting review & feedback sessions with team, helping to avoid costly mistakes further down the road.",
+        "Flexible <strong>content distribution</strong> model allowed CareerBuilder to <strong>spin down many disparate Wordpress/Drupal installations, saving money</strong> by reducing reliance on expensive consultants and <strong>boosting SEO</strong> performance by deduplicating content.",
+        "<strong>Mentored</strong> team of engineers, organizing <strong>weekly 1-on-1s</strong>, reviewing all pull requests, <strong>leading learning workshops</strong>, providing constructive feedback and goals, planning and pitching team headcount, encouraging developer-contributed architecture proposals and directing all Scrum meetings.",
+        "Built nested, multi-channel/tenant <strong>SaaS infrastructure</strong> to serve diverse needs across the company, bringing all content and marketing teams under a single, <strong>unified platform</strong> that enabled content and configuration sharing with an advanced inheritance model.",
+        "Created content <strong>recommendation & relevancy</strong> infrastructure, piping in-demand articles to job seekers through job listings and industry insight resources, solidifying CareerBuilder as a recruitment authority and increasing user base and <strong>decreasing bounce rate.</strong>",
+        "Designed a Drupal-like <strong><em>Content Model</em> system</strong>, which allows superadministrators, on the fly, to <strong>“lego” together</strong> and customize various Plugin-provided <em>Fields</em>, which can define validation, React, Elasticsearch and GraphQL behavior that can be further customized, per-<em>Content Model</em>, by a superadministrator. Allows platform to support incredibly <strong>flexible use cases.</strong>",
+        "Created Shrine-backed plugin providing <strong>full-featured Digital Asset Management</strong>, allowing for dynamic post-processing rules, Cloud Storage & CDN support.",
+        "Using dry-rb, formulated Service/Transaction Layer built around <strong>functional, “Railway-Oriented Programming</strong>” concepts in order to orchestrate higher-level business logic across resources and services, <strong>simplifying unit testing and error handling.</strong>",
+        "Led <strong>user testing</strong> workshops, developing publishing & scheduling system, on-the-fly configurable roles & permissions, workflows and dynamic admin UI architecture in concert with content creators’ feedback.",
+        "Built Plugin-provided <strong>Wordpress-like WYSIWYG</strong> editor <strong>“Widget” system</strong>, allowing for <strong>referential integrity</strong> for versioned assets, highly configurable attributes for rich content, and complex <strong>embedded</strong> components such as <strong>media galleries</strong> and video players.",
+        "Authored <em>Content</em> relation system, allowing for <strong>complex & configurable semantic links</strong> (i.e. among Articles and Media) between disparate <em>Content Models</em>.",
+        "Harnessed <strong>Docker Compose</strong> to create a build process that transformed provisioning, environment setup and deployment into a <strong>turnkey</strong> process, radically <strong>simplifying onboarding and continuous integration/deployment</strong> steps. This also resulted in <strong>normalized environments</strong> across machines, reducing errors and hardening our testing process.",
+        "Built <strong>advanced testing harness</strong>, allowing for core engine and plugins to be <strong>tested independently</strong> and easily via <strong>CircleCI.</strong>",
+        "Created and <strong>authored extensive documentation</strong> portal (<a href='https://docs.cortexcms.org'>docs.cortexcms.org</a>) for internal and external use.",
+        "Led initiative and <strong>produced business plan</strong> to <strong>open source</strong> CMS and associated tools, fostering <strong>community involvement and long-term maintenance</strong> of in-house platform.<br /><br />",
+
+        "Created <a href='https://hiring.careerbuilder.com'>hiring.careerbuilder.com</a>, CareerBuilder’s <strong>employer marketing platform</strong>, built with Rails, React, Sass, Redis and Docker on top of Cortex CMS. This new application helped <strong>stabilize our revenue</strong>, migrated purchases and subscriptions to a <strong>brand-new self-service platform</strong>, and <strong>massively boosted SEO</strong> to first-page, <strong>top-five</strong> performance.",
+        "Designed and implemented composable & configurable React- and Cortex-based widget system, <strong>allowing frontend team</strong> to piece together new, <strong>rich product pages in hours</strong> rather than days or weeks.",
+        "Authored numerous, complex React components to <strong>drive user conversion</strong> during discovery & purchase process.",
+        "<strong>Created</strong> and architected on-brand, <strong>responsive, lightweight Sass styling foundation</strong> (similar to Bootstrap) built with <strong>Bourbon</strong> and <strong>Neat</strong> for marketing application and for use <strong>across entire company.</strong>",
+        "Wrote comprehensive suite of <strong>unit & integration tests</strong> using <strong>RSpec, Capybara, Jasmine, Jest & Enzyme</strong>, ensuring platform stability.",
+        "Utilized numerous tools (i.e. New Relic, Sentry, fragment/action/data caching, etc) to measure, scale and <strong>improve site & SEO performance</strong>, writing numerous user stories and defect cards to address issues and technical debt.",
+        "Built Employer Resource Center platform atop Cortex CMS, allowing <strong>relevant marketing content</strong> to be piped into the employer experience during the discovery & purchase process.",
+        "<strong>Took over existing Shopping Cart Platform team</strong>, overseeing resolution of performance, purchase and maintenance issues.",
+        "<strong>Created architecture</strong> and plan for migration for <strong>brownfield Shopping Cart from .NET to Rails/React</strong>, working closely with leadership to develop next-generation purchasing platform for CareerBuilder."
       ]
     }
   ]
