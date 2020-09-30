@@ -15,9 +15,30 @@
       "title": "Senior Software Engineer",
       "institution": "Dribbble",
       "location": "Remote",
-      "date-range": "Jan. 2019 - Present",
+      "date-range": "Jan. 2019 - Oct. 2020",
       "list-items": [
-        "TBD <div class='page-break'></div>"
+        "Part of small, 3-5 member engineering team, responsible for <strong>building out, scaling and maintaining</strong> the Dribbble experience, which supports over a <strong>billion page views</strong> a month.",
+        "Built the new <strong>designer search platform</strong>, allowing employers to actively filter and search for <strong>relevant</strong> designers looking for work. Leverages <strong>Elasticsearch</strong> for filtering and relevancy.",
+        "Built the new <strong>talent platform</strong>, which intelligently and automatically funnels vetted, relevant candidates to employers, allowing them to passively fill positions.",
+        "Built the new <strong>freelance project platform</strong>, a marketplace for designers to connect with individuals and employers who need small projects completed.",
+        "Served as <strong>on-call</strong> engineer, rapidly responding to, triaging and resolving issues, <strong>ensuring site reliability</strong> at all times. Became intimately familiar with the entire <strong>11-year-old Rails application</strong>, our infrastructure and its processes to ensure effective resolution of site problems.",
+        "Built our <strong>Docker & Docker Compose</strong> setup for local development and <strong>CI</strong>, simplifying onboarding and normalizing our environments between development and testing.",
+        "Explored new avenues for successful architecture and development, demonstrating effective <strong>N+1 discovery and resolution</strong>, potential <strong>GraphQL</strong> use cases, development over SSH, advanced debugging with RubyMine and VS Code, and more. Occasionally hosted brown bag lunches to cover advanced topics.",
+        "Acted as close <strong>mentor and advocate</strong> for other teammates, making <strong>pairing, code review and deep-dives</strong> a daily affair.",
+        "Built and scaled numerous <strong>API endpoints</strong> to power highly interactive and data-driven Vue components.",
+        "Helped build numerous <strong>Vue components</strong> as we created new products across the platform.",
+        "Introduced the <strong>ViewComponents</strong> pattern, allowing the backend templating engine to benefit from modern Vue/React/Angular-like patterns.",
+        "Built <strong>Server-Side Rendering</strong> infrastructure to increase crawler and client-side performance for our increasingly Vue-heavy application.",
+        "Maintained a commitment to quality at all times, <strong>refactoring</strong> the vast majority of modified code and achieving virtually <strong>100% unit test coverage</strong> for the PRs I created - or adding it where it was missing.",
+        "Maintained, refactored and improved <strong>complex purchasing and subscription systems</strong> using service objects and simple permissions classes.",
+        "Created integrations with many other systems, including <strong>Pipedrive, Salesforce</strong> and more.",
+        "Helped build system for paid promotion of uploads on the platform.",
+        "Helped build complex onboarding and offboarding flows.",
+        "Identified and resolved scaling painpoints by way of N+1 identification (using <strong>Mini Profiler and Bullet</strong>), enhanced and aggressive <strong>caching, denormalization of knowledge</strong> when necessary, use of <strong>New Relic</strong> to identify hotspots in Production, adding (and sometimes removing) <strong>indexes</strong>, making use of PostgreSQL <strong>query plans</strong>, and more.",
+        "Built and sent numerous mass mailers to audiences with complex rules, ensuring the right people always received the right newsletters.",
+        "Made heavy use of <strong>feature flags and A/B tests</strong> to ensure smooth rollout of new features and to ensure data always drove our biggest decisions.",
+        "Responsible for large expansion of <strong>admin interface</strong>, always with an eye towards quality and ease-of-use.",
+        "Built features to enhance core \"uploads\" functionality of site, such as a <strong>complex, rules-based upload permissions system</strong> that's also used heavily in our <strong>Elasticsearch</strong> logic, driving more revenue for one of our biggest products.<div class='page-break'></div>"
       ]
     },
     {
