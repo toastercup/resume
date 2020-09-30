@@ -1,0 +1,72 @@
+<html>
+<head>
+    {{#about-me}}
+    <title>Resume of {{first-name}} {{last-name}}</title>
+    <meta charset="UTF-8">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body>
+  <div id="document">
+    <div class="page">
+      <header class="about-me">
+        <h1 class="about-me__name">{{first-name}} <span class="about-me__last-name">{{last-name}}</span></h1>
+        <h6 class="about-me__position">{{position}}</h6>
+        <h6 class="about-me__address">{{location}}</h6>
+        <span class="about-me__social">
+            <h6><a href="tel:{{mobile}}"><i class="fa fa-phone"></i>{{mobile-display}}</a></h6>
+            <h6><a href="mailto:{{email}}"><i class="fa fa-envelope"></i>{{email}}</a></h6>
+            <h6><a href="https://github.com/{{github}}"><i class="fab fa-github"></i>{{github}}</a></h6>
+        </span>
+      </header>
+      {{/about-me}}
+
+      <section class="experience">
+        <div class="section__heading">
+            <h1>Experience</h1>
+            <span class="section__heading-underline"></span>
+        </div>
+        {{#experience}}
+          <div class="section__item">
+            <div>
+                <h4 class="education__institution section__subheading">{{institution}}</h4>
+                <h4 class="section__location">{{location}}</h4>
+            </div>
+            <div>
+                <h5 class="section__subsubheading">{{title}}</h5>
+                <h5 class="section__date-range">{{date-range}}</h5>
+            </div>
+            <ul>
+                {{#list-items}}
+                <li>{{{.}}}</li>
+                {{/list-items}}
+            </ul>
+          </div>
+        {{/experience}}
+      </section>
+
+      <section class="past-experience">
+        <div class="section__heading">
+            <h1>Past Experience</h1>
+            <span class="section__heading-underline"></span>
+        </div>
+        {{#past-experience}}
+          <div class="section__item">
+            <div>
+                <h4 class="education__institution section__subheading">{{institution}} <em>(See LinkedIn)</em></h4>
+                <h4 class="section__location">{{location}}</h4>
+            </div>
+            {{#positions}}
+              <div>
+                  <h5 class="section__subsubheading">{{title}}</h5>
+                  <h5 class="section__date-range">{{date-range}}</h5>
+              </div>
+            {{/positions}}
+          </div>
+          <br />
+        {{/past-experience}}
+      </section>
+    </div>
+  </div>
+</body>
+</html>
