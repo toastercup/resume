@@ -28,13 +28,20 @@
         </div>
         {{#experience}}
           <div class="section__item">
-            <div>
-                <h4 class="education__institution section__subheading">{{institution}}</h4>
-                <h4 class="section__location">{{location}}</h4>
-            </div>
-            <div>
-                <h5 class="section__subsubheading">{{title}}</h5>
-                <h5 class="section__date-range">{{date-range}}</h5>
+            <div class="section__item__heading">
+              <div class="section__item__heading__logo">
+                <img src="{{logo_url}}">
+              </div>
+              <div class="section__item__heading__text">
+                <div>
+                    <h4 class="education__institution section__subheading">{{institution}}</h4>
+                    <h4 class="section__location">{{location}}</h4>
+                </div>
+                <div>
+                    <h5 class="section__subsubheading">{{title}}</h5>
+                    <h5 class="section__date-range">{{date-range}}</h5>
+                </div>
+              </div>
             </div>
             <ul>
                 {{#list-items}}
