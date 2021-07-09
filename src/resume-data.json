@@ -12,6 +12,24 @@
   },
   "experience": [
     {
+      "title": "Senior Full-stack Software Engineer",
+      "institution": "Calendly",
+      "location": "Remote",
+      "date-range": "Nov. 2020 - Present",
+      "list-items": [
+        "Part of the \"Large Organizations Squad\", a small, remote-first team laser-focused on the <strong>long-term needs</strong> of Calendly's <strong>largest enterprise customers.</strong>",
+        "Placed a heavy emphasis on assisting and <strong>unblocking other engineers</strong>, the team and the company at large, ensuring we can <strong>deliver value to our customers at a steady clip.</strong>",
+        "Led ceremonies, took point on questions and action items from the team, <strong>addressed sticking points</strong> to allow our engineering team to move faster, and worked with product management to <strong>add engineering context</strong> to our planned features.",
+        "Member of founding leadership of a new \"guild\" at Calendly focused on <strong>ensuring a delightful & productive experience for engineers across the company.</strong> Particularly focused on lifting up the guild's community of volunteer leaders & maintainers, <strong>organizing and evangelizing our backlog of work</strong> and ensuring forward momentum.",
+        "Working hand-in-hand with another guild member, delivered the first product of the new guild - an overhaul of our CI process, introducing caching of dependencies that not only <strong>sped up builds</strong>, but also <strong>made build times more deterministic</strong>, allowing the company to <strong>iterate & ship features for our customers even faster.</strong>",
+        "Authored <strong>implementation plans</strong> in close collaboration with our architecture team and, working with the engineering team, delivered a scheduled, self-service data deletion system to enable our customers to comply with GDPR. This was planned with an eye towards <strong>fault tolerance & resilience</strong>, to ensure our own compliance with legal statutes - and to ensure a <strong>frictionless experience for our customers.</strong>",
+        "Worked with architecture team and teammates to plan, author & deliver the company's first \"bounded context engine,\" part of a larger effort to isolate the logic of vital services in our Rails/React monolith - without the overhead of a microservice.",
+        "Working closely with other engineers, helped deliver Calendly's SCIM solution, enabling automated provisioning and lifecycle management of our enterprise customers' user identities.",
+        "Volunteered to take on <strong>on-call duties</strong> to assist with catching spammers abusing our platform, protecting the Calendly brand and maintaining trust with our customers.",
+        "Ensured team buy-in and comprehension of key decisions by way of written word. <strong>Firm believer in the value of clearly-written async communications for distributed teams</strong> - coupled with concise, guided verbal discussions.<br /><br />"
+      ]
+    },
+    {
       "title": "Senior Software Engineer",
       "institution": "Dribbble",
       "location": "Remote",
@@ -22,7 +40,7 @@
         "Built the new <strong>freelance project platform</strong>, a marketplace for designers to connect with individuals and employers who need small projects completed.",
         "Built a significant portion of the new <strong>talent platform</strong>, which intelligently and automatically funnels vetted, relevant candidates to employers, allowing them to passively fill positions.",
         "Served as <strong>on-call</strong> engineer, rapidly responding to, triaging and resolving issues, <strong>ensuring site reliability</strong> at all times. Became intimately familiar with the entire <strong>11-year-old Rails application</strong>, our <strong>AWS infrastructure</strong> and its processes to ensure effective resolution of site problems.",
-        "In spare time, built our <strong>Docker & Docker Compose</strong> setup for local development and <strong>CI</strong>, simplifying onboarding and normalizing our environments between development and testing.",
+        "In spare time, built our <strong>Docker & Docker Compose</strong> setup for local development and <strong>CI</strong>, simplifying onboarding and normalizing our environments between development and testing.<div class='page-break'></div>",
         "Explored new avenues for successful architecture and development, demonstrating effective <strong>N+1 discovery and resolution</strong>, potential <strong>GraphQL</strong> use cases, development over SSH, advanced debugging with RubyMine and VS Code, and more. Occasionally hosted brown bag lunches to cover advanced topics.",
         "Acted as close <strong>mentor and advocate</strong> for other teammates, making <strong>pairing, code review and deep-dives</strong> a daily affair.",
         "Built and scaled numerous <strong>API endpoints</strong> to power highly interactive and data-driven Vue components.",
@@ -39,7 +57,7 @@
         "Built and sent numerous mass mailers to audiences with complex rules, ensuring the right people always received the right newsletters.",
         "Made heavy use of <strong>feature flags and A/B tests</strong> to ensure smooth rollout of new features and to ensure data always drove our biggest decisions.",
         "Responsible for large expansion of <strong>admin interface</strong>, always with an eye towards quality and ease-of-use.",
-        "Built features to enhance core \"uploads\" functionality of site, such as a <strong>complex, rules-based upload permissions system</strong> that's also used heavily in our <strong>Elasticsearch</strong> logic, driving more revenue for one of our biggest products.<div class='page-break'></div>"
+        "Built features to enhance core \"uploads\" functionality of site, such as a <strong>complex, rules-based upload permissions system</strong> that's also used heavily in our <strong>Elasticsearch</strong> logic, driving more revenue for one of our biggest products.<br /><br />"
       ]
     },
     {
@@ -73,7 +91,7 @@
         "Utilized numerous tools (i.e. New Relic, Sentry, fragment/action/data caching, etc) to measure, scale and <strong>improve site & SEO performance</strong>, writing numerous user stories and defect cards to address issues and technical debt.",
         "Built Employer Resource Center platform atop Cortex CMS, allowing <strong>relevant marketing content</strong> to be piped into the employer experience during the discovery & purchase process.",
         "<strong>Took over existing Shopping Cart Platform team</strong>, overseeing resolution of performance, purchase and maintenance issues.",
-        "<strong>Created architecture</strong> and plan for migration for <strong>brownfield Shopping Cart from .NET to Rails/React</strong>, working closely with leadership to develop next-generation purchasing platform for CareerBuilder."
+        "<strong>Created architecture</strong> and plan for migration for <strong>brownfield Shopping Cart from .NET to Rails/React</strong>, working closely with leadership to develop next-generation purchasing platform for CareerBuilder.<br /><br /><br /><br /><br /><br />"
       ]
     }
   ],
